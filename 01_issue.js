@@ -7,9 +7,7 @@
 // 4 - false-false
 // 5 - Syntax error
 
-
-// The typeof Operator 
-// https://262.ecma-international.org/12.0/#sec-typeof-operator
+// 13.5.3 The typeof Operator
 console.log("typeof null:")
 console.log(typeof null)
 console.log('\n')
@@ -17,5 +15,8 @@ console.log('\n')
 console.log("null instanceof Object")
 console.log(null instanceof Object)
 console.log('\n')
+
+// Meanwhile null is primitive: 
+// 4.4.5 primitive value
 
 // Right answer: 3
