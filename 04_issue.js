@@ -27,7 +27,8 @@ console.log(result)
 // 5 - Alan,Alan,Charles
 // 6 - Alan,Bob,Charles
 
-// .prototype is a reference to a constructor
-// .__proto__ is an object, which was the prototype at creation
+// .prototype is an object which will be set as the
+//    prototype of any new objects created with the constructor function
+// .__proto__ is an object, which was the prototype at creation time
 
 // Right answer: 6
