@@ -31,4 +31,6 @@ console.log(result)
 //    prototype of any new objects created with the constructor function
 // .__proto__ is an object, which was the prototype at creation time
 
-// Right answer: 6
+// https://chamikakasun.medium.com/javascript-prototype-and-prototype-chain-explained-fdc2ec17dd04
+
+// Right answer: 5
